@@ -16,8 +16,8 @@ This project called **"Write a Data Science Blog"** is the 1st project assigned 
 
 For the Boston Airbnb dataset, I was majorly interested in finding out:
 
-1. What factors does a User need to keep in mind while selecting a stay with Airbnb in order to find cheaper as well as safer options?
-2. What factors does a Host need to keep in mind while putting their place up for rent with Airbnb in order to gain the maximum benefit from it?
+1. What factors can a User keep in mind while selecting a stay with Airbnb in order to find cheaper as well as safer options?
+2. What factors can a Host keep in mind while putting their place up for rent with Airbnb in order to gain the maximum benefit from it?
 3. What factors show the highest variation in relation to prices of the stays in Boston?
 4. What other analysis can be part of this - in order to extend the results to actionable recommendations for both Users and Hosts?
 

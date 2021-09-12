@@ -12,7 +12,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-This project called **"Write a Data Science Blog"** is the 1st project assigned as part of the Udacity Data Science Nanodegree program.
+This project called **"Writing a Data Science Blog Post"** is the 1st project assigned as part of the Udacity Data Science Nanodegree program.
 
 For the Boston Airbnb dataset, I was majorly interested in finding out:
 

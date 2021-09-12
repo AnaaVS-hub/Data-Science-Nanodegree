@@ -33,6 +33,6 @@ The main findings of the code can be found at the post available [here](https://
 
 Thanks to Kaggle - I had the required [dataset](https://www.kaggle.com/airbnb/boston?select=listings.csv) for my analysis! 
 
-In case, you'd like to have a look at complete datasets and get your hands dirty with the entire repository that Airbnb provides, check [this](http://insideairbnb.com/get-the-data.html) out!
+In case, you'd like to have a look at complete datasets and get your hands dirty on the entire repository that Airbnb provides, check [this](http://insideairbnb.com/get-the-data.html) out!
 
 As for this code, feel free to use it, fork it, comment on it :)
